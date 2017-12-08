@@ -1,0 +1,45 @@
+﻿<page>
+  <row>
+    <col>
+      <box>
+        <ball>
+こんにちは
+        </ball>
+        <ball>
+こんにちは。
+        </ball>
+      </box>
+    </col>
+  </row>
+</page>
+<page>
+  <row>
+    <col>
+      <box>
+        <ball>
+あいさつは、
+        </ball>
+      </box>
+    </col>
+  </row>
+  <row>
+    <col>
+      <box>
+        <ball>
+こんなにも
+        </ball>
+      </box>
+    </col>
+  </row>
+</page>
+<page>
+  <row>
+    <col>
+      <box>
+        <ball>
+すばらしい
+        </ball>
+      </box>
+    </col>
+  </row>
+</page>
